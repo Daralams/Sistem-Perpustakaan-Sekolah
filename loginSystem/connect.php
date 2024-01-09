@@ -2,7 +2,7 @@
 // FILE LOGIN SYSTEM 
 $host = "127.0.0.1";
 $username = "root";
-$password = "root";
+$password = "";
 $database = "perpustakaan";
 $connect = mysqli_connect($host, $username, $password, $database);
 
